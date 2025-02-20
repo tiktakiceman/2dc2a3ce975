@@ -10,7 +10,7 @@ local correctKey = "HelloGuys" -- Replace this with your correct key
 
 if playerKey == correctKey then
 
-    local scriptURL = "loadstring(game:HttpGet("https://raw.githubusercontent.com/tiktakiceman/Not-a-roblox-script-tiktakiceman/refs/heads/main/Neverlose%20gui%20from%20cs2.lua?token=GHSAT0AAAAAAC6U7CK5UTWH7HTNRZKPC4TOZ5XMFYA"))()" -- Replace with the URL of the script you want to run
+    local scriptURL = "loadstring(game:HttpGet("https://raw.githubusercontent.com/tiktakiceman/2dc2a3/refs/heads/main/2dc2a3c"))()" -- Replace with the URL of the script you want to run
 
     print("Key correct! Script executed.")
 else
